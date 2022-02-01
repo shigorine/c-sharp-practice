@@ -2,9 +2,9 @@
 
 namespace FirstProgram
 {
-    class Programs
+    class Variablesandstuff
     {
-        static void Main(string[] args)
+        static void Variable(string[] args)
         {
             int x = 0, y = 6, z = 3;
             Console.WriteLine(x);

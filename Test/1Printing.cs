@@ -2,9 +2,9 @@
 
 namespace FirstProgram
 {
-    class Program
+    class Print
     {
-        static void Mains(string[] args)
+        static void Printerrr(string[] args)
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("This is another line.");
