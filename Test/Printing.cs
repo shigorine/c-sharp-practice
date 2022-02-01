@@ -1,8 +1,24 @@
 ﻿using System;
 
-public class Class1
+namespace FirstProgram
 {
-	public Class1()
-	{
-	}
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("This is another line.");
+            // hello
+            /*
+             *
+             * Test
+             * Lol
+             * xd
+             *
+             */
+            Console.WriteLine("Hi! hello");
+
+            Console.ReadKey();
+        }
+    }
 }
