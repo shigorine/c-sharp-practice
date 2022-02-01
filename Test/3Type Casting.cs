@@ -2,9 +2,9 @@
 
 namespace FirstProgram
 {
-    class Type
+    class TypeCasting
     {
-        static void Main(string[] args)
+        static void Typing(string[] args)
         {
             double a = 3.41;
             int b = Convert.ToInt32(a);
