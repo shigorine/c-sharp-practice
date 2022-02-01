@@ -4,7 +4,7 @@ namespace FirstProgram
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Mains(string[] args)
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("This is another line.");
