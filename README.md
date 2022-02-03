@@ -1,3 +1,3 @@
-# shigo c-# practice
+# shigo C# practice
 
-Woo!
+A repo to see my progress and as a reference too.
